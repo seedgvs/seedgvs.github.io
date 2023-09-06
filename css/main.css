@@ -247,6 +247,7 @@ h4 {
   color: #fff;
 }
 
+/************************
 .hero-content h1:before {
   color: blue;
   content: "B";
@@ -256,6 +257,7 @@ h4 {
   color: red;
   content: "A";
 }
+************************/
 
 .half-hero {
   background-position: center center;
